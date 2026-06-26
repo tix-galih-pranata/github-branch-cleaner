@@ -88,3 +88,7 @@ npm run start
 - Protected branches / branch-protection rules will reject deletion; those show
   up as failures, which is expected.
 - The default branch can never be deleted by a remote.
+
+## License
+
+[MIT](LICENSE)

@@ -2,6 +2,7 @@
   "name": "github-branch-cleaner",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "dev": "next dev -p 5050",
     "build": "next build",
